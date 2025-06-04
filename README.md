@@ -48,17 +48,16 @@ Text fields and dialogs to input or update member data.
 
 Displays results using JTable or JTextArea.
 
-DBMS: Apache Derby (Java DB)
+# DBMS: Apache Derby (Java DB)
 
 Table Name: FITNESSTRACKERDATASET
 
 Schema Example:
-
 sql
 Copy
 Edit
 
-Notes
+# Notes
 Please do not repeat any action more than once in the same run (applies mostly to the console version).
 
 GUI version provides more flexibility and usability.
